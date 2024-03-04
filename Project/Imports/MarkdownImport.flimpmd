@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MarkdownImport Stylesheet="../../Content/Resources/Stylesheets/Styles.css" ImportFolder="Intro" CreateNewStylesheet="true" LastImport="2024-01-26T16:33:25.1245399+01:00">
+    <Files>
+        <Url Source="../../Import/CulturalSignificance.md" AbsoluteSource="file:///F:/Studia/MadCap/My Projects/ExampleMCFProject/Import/CulturalSignificance.md" />
+        <Url Source="../../Import/HIstoryOfEdinburgh.md" AbsoluteSource="file:///F:/Studia/MadCap/My Projects/ExampleMCFProject/Import/HIstoryOfEdinburgh.md" />
+        <Url Source="../../Import" AbsoluteSource="file:///F:/Studia/MadCap/My Projects/ExampleMCFProject/Import" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles />
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="../../Content/Intro/Overview of Edinburgh's cultural.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Brief history and background.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Arthur's Seat A Majestic Hiking.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Edinburgh Castle A Tapestry.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Edinburgh Festivals A Cultural.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Key areas and neighborhoods.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/National Museum of Scotland.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Scottish National Gallery.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Introduction to Edinburgh.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Scottish Cuisine.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Princes Street Gardens Urban.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Royal Mile Exploring the heart.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Scotch Whisky A Spirited Journey.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Traditional Scottish dishes.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Intro/Transportation options.htm" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../TOCs/MarkdownImport_1.fltoc" TimeStamp="26.01.2024 16:33:14" />
+        <Url Source="../../Content/Resources/Stylesheets/Styles.css" TimeStamp="26.01.2024 16:33:14" />
+    </GeneratedFiles>
+    <Styles>
+        <Map From="blockquote" To="blockquote" Style="Block" />
+        <Map From="h1" To="h1" Style="Block" />
+        <Map From="h2" To="h2" Style="Block" />
+        <Map From="h3" To="h3" Style="Block" />
+        <Map From="h4" To="h4" Style="Block" />
+        <Map From="h5" To="h5" Style="Block" />
+        <Map From="h6" To="h6" Style="Block" />
+        <Map From="MadCap:equation" To="MadCap:equation" Style="Block" />
+        <Map From="p" To="p" Style="Block" />
+        <Map From="pre" To="MadCap:codeSnippet" Style="Block" />
+        <Map From="a" To="a" Style="Inline" />
+        <Map From="code" To="code" Style="Inline" />
+        <Map From="em" To="em" Style="Inline" />
+        <Map From="MadCap:equation" To="MadCap:equation" Style="Inline" />
+        <Map From="strong" To="strong" Style="Inline" />
+        <Map From="li" To="li" Style="List" />
+        <Map From="ol" To="ol" Style="List" />
+        <Map From="ul" To="ul" Style="List" />
+        <Map From="dd" To="dd" Style="Definition List" />
+        <Map From="dl" To="dl" Style="Definition List" />
+        <Map From="dt" To="dt" Style="Definition List" />
+    </Styles>
+    <NewTopicStyles>
+        <Style Tag="h1" />
+    </NewTopicStyles>
+</MarkdownImport>

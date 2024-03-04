@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Overview of Edinburgh's cultural significance and attractions" />
+  <TocEntry
+    Title="Brief history and background of the city" />
+  <TocEntry
+    Title="Arthur's Seat: A Majestic Hiking Destination with Panoramic Views"
+    Link="/Content/E-Natural-Beauty/Arthur's Seat A Majestic Hiking.htm" />
+  <TocEntry
+    Title="Edinburgh Castle: A Tapestry of History, Architecture, and Splendid Exhibits"
+    Link="/Content/C-Historic-Edinburgh/Edinburgh Castle A Tapestry.htm" />
+  <TocEntry
+    Title="Edinburgh Festivals: A Cultural Extravaganza in the Scottish Capital"
+    Link="/Content/D-Cultural-Highlights/Edinburgh Festivals A Cultural.htm" />
+  <TocEntry
+    Title="Key areas and neighborhoods"
+    Link="/Content/B-Getting-Around/Key areas and neighborhoods.htm" />
+  <TocEntry
+    Title="National Museum of Scotland"
+    Link="/Content/D-Cultural-Highlights/National Museum of Scotland.htm" />
+  <TocEntry
+    Title="Scottish National Gallery: Artistic Splendor in Edinburgh"
+    Link="/Content/D-Cultural-Highlights/Scottish National Gallery.htm" />
+  <TocEntry
+    Title="Introduction to Edinburgh" />
+  <TocEntry
+    Title="Scottish Cuisine" />
+  <TocEntry
+    Title="Princes Street Gardens: Urban Oasis at the Heart of Edinburgh"
+    Link="/Content/E-Natural-Beauty/Princes Street Gardens Urban.htm" />
+  <TocEntry
+    Title="Royal Mile: Exploring the heart of the Old Town"
+    Link="/Content/C-Historic-Edinburgh/Royal Mile Exploring the heart.htm" />
+  <TocEntry
+    Title="Scotch Whisky: A Spirited Journey Through History"
+    Link="/Content/F-Scottish-Cuisine/Scotch Whisky A Spirited Journey.htm" />
+  <TocEntry
+    Title="Traditional Scottish dishes and where to try them."
+    Link="/Content/F-Scottish-Cuisine/Traditional Scottish dishes.htm" />
+  <TocEntry
+    Title="Transportation options"
+    Link="/Content/B-Getting-Around/Transportation options.htm" />
+</CatapultToc>
